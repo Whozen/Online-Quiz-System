@@ -1,1 +1,1 @@
-# online-squiz-system
+# Online Quiz System
